@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - [Make Your Containers Better, Smaller and More Secure using DockerSlim and Trivy](https://systemweakness.com/make-your-containers-better-smaller-and-more-secure-using-dockerslim-82a1ee6fcb96)
 - [Vulnerability scanning for Docker images — Part1](https://systemweakness.com/how-to-scan-vulnerabilities-for-docker-container-images-part1-d50b4c233245)
 - [Vulnerability scanning for Docker images — Part2](https://systemweakness.com/how-to-scan-vulnerabilities-for-docker-container-images-part2-3e907dd0f66e)
-- [Running Docker Bench for Security to hardened your docker host and improve security](https://dev.to/aws-builders/protecting-employees-using-secure-aws-solutions-4el4)
+- [Running Docker Bench for Security to hardened your docker host and improve security](https://systemweakness.com/automate-docker-security-audits-with-docker-bench-for-security-76b509cd7bb1)
 - [Protecting Employees Using Secure AWS Solutions](https://medium.com/@madhoo_kumar/protecting-employees-using-secure-aws-solutions-6635322bf6f8)
 <!-- BLOG-POST-LIST:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudgeek7&label=Profile%20views&color=0e75b6&style=flat" alt="cloudgeek7" /> </p>
