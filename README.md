@@ -34,8 +34,4 @@ You can click the Preview link to take a look at your changes.
 - [Running Docker Bench for Security to hardened your docker host and improve security](https://systemweakness.com/automate-docker-security-audits-with-docker-bench-for-security-76b509cd7bb1)
 - [Protecting Employees Using Secure AWS Solutions](https://medium.com/@madhoo_kumar/protecting-employees-using-secure-aws-solutions-6635322bf6f8)
 <!-- BLOG-POST-LIST:END -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudgeek7&label=Profile%20views&color=0e75b6&style=flat" alt="cloudgeek7" /> </p>
 
-![CloudGeek7's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudgeek7&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudgeek7&layout=compact)
