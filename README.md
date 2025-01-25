@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhu Kumar *** AWS Hero (Containers) *** AWS User Group Leader, Hungary *** Container Builders Community ***
-- 👀 I’m interested in Cloud, Containers, Docker and K8s topics
+- 👀 I’m interested in Cloud, Containers, Security, AI/ML, Docker and K8s topics
 - 🌱 I’m currently learning alot about Cloud and Containers
 - 💞️ I’m looking to collaborate on any container topics @ Container Builders Discord Server - https://discord.gg/TejhNdfe26
 - 📫 How to reach me - follow me @ https://www.linkedin.com/in/cloudgeek7
